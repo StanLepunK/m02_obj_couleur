@@ -26,7 +26,7 @@ fichier : nom_exercice.pde
 
 `Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
 
-En cas d'échec sur le module, le sous-dossier module se nommera `m02_1`, puis `m02_2` mais le nom des sketches ne changera pas.
+En cas d'échec sur le module, le sous-dossier module se nommera `m02_1`, puis `m02_2`etc. Mais le nom des sketches ne changera pas.
 
 contraintes : 
 respecter la [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/norme_voie_du_code.md)
