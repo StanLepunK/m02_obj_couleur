@@ -1,7 +1,7 @@
 # Code créatif Module 02 couleur
 
 ## version
-v 0.0.2
+v 0.0.3
 
 ## objectif
 Réaliser à l'aide du langage Processing les exercices suivants.
@@ -34,7 +34,7 @@ respecter la [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/n
 ## m02_ex00_rgb
 ```
 sketch : m01_ex00_rgb.pde
-xp : 5
+xp : 2/70
 intitulé :
 Dans une fenêtre de 640 par 480.
 À chaque clique de souris, la couleur de l'arrière plan changera.
@@ -53,7 +53,7 @@ itération :
 ## m02_ex01_hsb
 ```
 sketch : m01_ex01_hsb.pde
-xp : 5
+xp : 6/70
 intitulé :
 Dans une fenêtre de 640 par 480.
 À chaque que la touche 'h' sera déclanchée la couleur de l'arrière plan changera.
@@ -73,7 +73,7 @@ itération :
 ## m02_ex02_set_pixel
 ```
 sketch : m01_ex02_set_pixel.pde
-xp : 10
+xp : 10/70
 intitulé :
 Dans une fenêtre de 640 par 480.
 attribué une couleur différente à chaque pixel.
@@ -91,7 +91,7 @@ itération : while()
 ## m02_ex03_camaieu
 ```
 sketch : m01_ex03_camaieu.pde
-xp : 10
+xp : 20/70
 intitulé :
 Créez une méthode camaieu().
 Dans une fenêtre de 640 par 480.
@@ -112,7 +112,7 @@ itération : while()
 ## m02_ex04_spectre
 ```
 sketch : m01_ex04_spectre.pde
-xp : 10
+xp : 30/70
 intitulé :
 Créez une méthode spectre().
 Dans une fenêtre de 640 par 480.
@@ -133,7 +133,7 @@ itération : while()
 ## m02_ex05_disque
 ```
 sketch : m01_ex05_disque.pde
-xp : 10
+xp : 40/70
 intitulé :
 Créez une méthode disque().
 Dans une fenêtre de 640 par 480.
@@ -154,7 +154,7 @@ itération : while()
 ## m02_ex06_chose
 ```
 sketch : m01_ex06_chose.pde
-xp : 15
+xp : 50/70
 intitulé :
 Créez une méthode chose().
 Dans une fenêtre de 640 par 480.
@@ -176,7 +176,7 @@ itération : while()
 ## m02_ex07_soleil
 ```
 sketch : m01_ex07_soleil.pde
-xp : 30
+xp : 70/70
 intitulé :
 Créez une méthode soleil().
 Dans une fenêtre de 640 par 480.
