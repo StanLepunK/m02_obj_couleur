@@ -1,32 +1,33 @@
 # Code créatif Module 02 couleur
 
 ## version
-v 0.0.3
+v 0.1.1
 
 ## objectif
+
 Réaliser à l'aide du langage Processing les exercices suivants.
-Un exercice est soit raté, soit réussit, sauf indication contraire.
+Un exercice est soit raté, soit réussit.
 Chaque exercice rapporte des points, pour valider un module il faut obternir au moins 60% des points de l'ensemble du modules.
 Dés que la norme n'est pas respectée, l'exercice est considéré comme raté.
 
 L'ensemble des exercices sont à renvoyer par mail au correcteur en respectant l'arborescence et le nommage des dossiers, sous-dossiers et nom de fichiers. Si l'arborescence n'est pas respectée l'exercice ou le module ne seront pas corrigés et considérés comme ratés.
-
 Vous avez des listes de `primitive, globale, opérateur, méthode, condition` ou `itération` que vous pourrez utiliser. Il n'est pas obligatoire de toutes les utiliser, par contre vous ne pouvez pas en utiliser d'autres.
 
 La taille de la fenêtre pourra être changée par le correcteur.
 
+Toutes les consignes sont valables pour l'ensemble du module sauf indication contraire.
+
 ```
 dossier : nom prénom
-sous-dossier : module
-sous-dossier : nom_exercice
-fichier : nom_exercice.pde
+sous-dossier : m##
+sous-dossier : m##_ex##_nom
+fichier :  m##_ex##_nom.pde
 ```
 
 * exemple 
 
 `Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
 
-En cas d'échec sur le module, le sous-dossier module se nommera `m02_1`, puis `m02_2`etc. Mais le nom des sketches ne changera pas.
 
 contraintes : 
 respecter la [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/norme_voie_du_code.md)
@@ -34,7 +35,6 @@ respecter la [norme](https://github.com/StanLepunK/La-Voie-du-Code/blob/master/n
 ## m02_ex00_rgb
 ```
 sketch : m01_ex00_rgb.pde
-xp : 2/70
 intitulé :
 Dans une fenêtre de 640 par 480.
 À chaque clique de souris, la couleur de l'arrière plan changera.
@@ -53,7 +53,6 @@ itération :
 ## m02_ex01_hsb
 ```
 sketch : m01_ex01_hsb.pde
-xp : 6/70
 intitulé :
 Dans une fenêtre de 640 par 480.
 À chaque que la touche 'h' sera déclanchée la couleur de l'arrière plan changera.
@@ -73,7 +72,6 @@ itération :
 ## m02_ex02_set_pixel
 ```
 sketch : m01_ex02_set_pixel.pde
-xp : 10/70
 intitulé :
 Dans une fenêtre de 640 par 480.
 attribué une couleur différente à chaque pixel.
@@ -91,7 +89,6 @@ itération : while()
 ## m02_ex03_camaieu
 ```
 sketch : m01_ex03_camaieu.pde
-xp : 20/70
 intitulé :
 Créez une méthode camaieu().
 Dans une fenêtre de 640 par 480.
@@ -112,7 +109,6 @@ itération : while()
 ## m02_ex04_spectre
 ```
 sketch : m01_ex04_spectre.pde
-xp : 30/70
 intitulé :
 Créez une méthode spectre().
 Dans une fenêtre de 640 par 480.
@@ -133,7 +129,6 @@ itération : while()
 ## m02_ex05_disque
 ```
 sketch : m01_ex05_disque.pde
-xp : 40/70
 intitulé :
 Créez une méthode disque().
 Dans une fenêtre de 640 par 480.
@@ -154,7 +149,6 @@ itération : while()
 ## m02_ex06_chose
 ```
 sketch : m01_ex06_chose.pde
-xp : 50/70
 intitulé :
 Créez une méthode chose().
 Dans une fenêtre de 640 par 480.
@@ -176,7 +170,6 @@ itération : while()
 ## m02_ex07_soleil
 ```
 sketch : m01_ex07_soleil.pde
-xp : 70/70
 intitulé :
 Créez une méthode soleil().
 Dans une fenêtre de 640 par 480.
