@@ -1,7 +1,7 @@
 # Code créatif Module 02 couleur
 
 ## version
-v 0.1.1
+v 0.1.2
 
 ## objectif
 
@@ -26,7 +26,7 @@ fichier :  m##_ex##_nom.pde
 
 * exemple 
 
-`Maurice_Dupont/m00/m00_ex_00_truc/m00_ex_00_truc.pde`
+`Maurice_Dupont/m00/m00_ex00_truc/m00_ex00_truc.pde`
 
 
 contraintes : 
